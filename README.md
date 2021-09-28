@@ -1,0 +1,2 @@
+# attendancebot
+Genesis Attendance bot
